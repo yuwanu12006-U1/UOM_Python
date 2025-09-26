@@ -1,0 +1,1 @@
+print("Langages:\n\tTamil\n\tPython\n\tC\n\tJavascript")
